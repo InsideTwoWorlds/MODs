@@ -1,0 +1,21 @@
+Replaces the org. Plateset 541 with a complete white one.
+
+Files modified:
+Ar_pl_armour_41.dds
+Ar_pl_boots_41ds
+Ar_plloves_41.dds
+Ar_pl-helmet_41.dds
+Ar_pl_trousers_41.dds
+Ar_pl_armour_41_bump.dds
+Ar_pl_boots_41_bump.dds
+Ar_pl_gloves_41_bump.dds
+Ar_pl_helmet_41_bump.dds
+Ar_pl_trousers_41_bump.dds
+
+
+Screenshot included in the Zip
+
+Submitted by Deathtiny
+11. July 2007
+
+https://web.archive.org/web/20150215082710/http://insidetwoworlds.com/local_links.php?catid=21&linkid=52

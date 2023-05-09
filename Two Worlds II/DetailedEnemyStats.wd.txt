@@ -1,0 +1,12 @@
+[1.6]
+
+This is a modification to show up ingame detailed stats about an enemy. Betatester of patch 1.4 will know this modification as it was part of the Betatest.
+
+For this mod you need to create a new char (MP/SP).
+
+The detailed enemy stats will allow you to see it all. So use with caution. This will also make Multi Player a completely transparent place. You will lose all the challenge there is. Use it at own risk.
+
+Submitted by Phalynx
+21. January 2008
+
+https://web.archive.org/web/20140403230440/http://www.insidetwoworlds.com/local_links.php?catid=8&linkid=67

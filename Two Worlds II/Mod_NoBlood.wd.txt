@@ -1,0 +1,9 @@
+This Mod disables all blood effects from the game.
+
+Installation:
+Copy the Mod_NoBlood.wd to the WDFiles folder (or create a folder named Mods), just where you installed Two Worlds. You can find your installation by searching for TwoWorlds.exe
+
+Submitted by Dopelganger
+23. June 2007
+
+https://web.archive.org/web/20140403234316/http://insidetwoworlds.com/local_links.php?linkid=42&catid=8

@@ -1,0 +1,32 @@
+Two Worlds Elite
+=============================
+Mod Version 23, Released 12/28/07
+Game Version: 1.6
+Files modified: TwoWorlds.par, scripts, quests.
+
+What's New:
+Varied the run speed and attack speed of monsters in a group so they don’t move in unison.
+
+<<<<<<<<<<ONLY USE THIS MOD WITH TWO WORLDS VERSION 1.6!>>>>>>>>>>
+
+Two Worlds has the potential to be one of the best games you’ve ever played. Two Worlds Elite is designed for elite players who can handle a dangerous world where the monsters actively and aggressively fight back. I’m excited about the improvements in the 1.6 patch and plan on playing the single player campaign one more time. However, when I learned that TwoWorlds.par was virtually unchanged in the patch, I knew that I would have to create a mod in order to enjoy 1.6.
+
+I’ve taken everything I learned from Silvermane’s Balancing Mod and redesigned it to fully take advantage of the games capabilities. The weapons, armor, magic, traps, merchants, mounts, and most importantly enemies have been carefully redesigned to provide a long, challenging campaign full of great battles that reward tactics and strategy.
+
+I’m happy to share this mod with other players who, like me, saw something special in Two Worlds.
+
+Note: This mod has not been tested with other mods.
+
+Note: Because this mod changes the scripts, it is necessary to start a new game.
+
+There are threads for Two Worlds Elite in the Modifications Released forum and a strategy guide in the Gameplay, Alchemy forum.
+
+Many thanks to the Devs and Elite players who have helped make this game great!
+
+Good hunting,
+Silvermane
+
+Submitted by lt411
+16. December 2007
+
+https://web.archive.org/web/20140404045918/http://insidetwoworlds.com/local_links.php?catid=22&linkid=140

@@ -1,0 +1,14 @@
+This mod changes some weapons to ones with Japanese Dragon symbols.
+
+Swords:
+WP_SWORD_61
+WP_SWORD_62
+
+Bow/Quiver
+AR_QUIVER_34
+WP_BOWS_34
+
+Submitted by DAMIEN666
+28. June 2007
+
+https://web.archive.org/web/20110915042724/http://insidetwoworlds.com/local_links.php?catid=14&linkid=44

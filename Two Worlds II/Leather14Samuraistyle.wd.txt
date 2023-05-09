@@ -1,0 +1,23 @@
+Replaces the org. Leatherset 14 with new Textures.
+Don´t expect a perfect Look!
+It´s more or less a 1st try and the Helm ruins the look.
+
+Files modified:
+Ar_le_armour_14.dds
+Ar_le_boots_14.dds
+Ar_le_gloves_14.dds
+Ar_le_helmet_14.dds
+Ar_le_trousers_14.dds
+Ar_le_armour_14_bump.dds
+Ar_le_boots_14_bump.dds
+Ar_le_gloves_14_bump.dds
+Ar_le_helmet_14_bump.dds
+Ar_le_trousers_14_bump.dds
+
+
+Screenshot included in the Zip
+
+Submitted by Deathtiny
+5. July 2007
+
+https://web.archive.org/web/20111124083022/http://insidetwoworlds.com/local_links.php?linkid=50&catid=21

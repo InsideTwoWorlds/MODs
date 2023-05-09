@@ -1,0 +1,15 @@
+Replaces the org. Chainset 232 with new colors
+
+Files modified:
+Ar_ch_armour_32.dds
+Ar_ch_boots_32.dds
+Ar_ch_gloves_32.dds
+Ar_ch_helmet_32.dds
+Ar_ch_trousers_32.dds
+
+Screenshot included in the Zip
+
+Submitted by Deathtiny
+4. July 2007
+
+https://web.archive.org/web/20140403193219/http://www.insidetwoworlds.com/local_links.php?catid=21&linkid=45

@@ -1,0 +1,21 @@
+This mod changes the halfplate set 345 into an mainly orange one.
+You can use it complete as standalone or only boots + gloves with the robe 15 orange (available as download here too)
+
+Files modified:
+Ar_hp_armour_45.dds
+Ar_hp_armour_45_bump.dds
+AR_HP_BOOTS_45.dds
+AR_HP_BOOTS_45_BUMP.dds
+AR_HP_GLOVES_45.dds
+AR_HP_GLOVES_45_BUMP.dds
+Ar_hp_helmet_45.dds
+Ar_hp_helmet_45_bump.dds
+Ar_hp_trousers_45.dds
+Ar_hp_trousers_45_bump.dds
+
+Screenshot incl. in Zip (both complete set and used with robe 15 orange)
+
+Submitted by Deathtiny
+6. July 2007
+
+https://web.archive.org/web/20111124065211/http://insidetwoworlds.com/local_links.php?catid=21&linkid=51

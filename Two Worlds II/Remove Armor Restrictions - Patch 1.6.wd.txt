@@ -1,0 +1,16 @@
+This will remove all the restrictions for plate armor, meaning you will be able to dual wield, use the bow, and swim in it.
+
+All people who play MP will need this as everyone has to has the same TwoWorlds.par file.
+Otherwise this is just for single player.
+So if you play online with friends make sure everyone has the mod.
+
+Originally made by Reynen Starfyre.
+
+This is a new version for patch 1.6
+
+Greetings Miho
+
+Submitted by Miho
+23. January 2008
+
+https://web.archive.org/web/20130918000609/http://www.insidetwoworlds.com/local_links.php?catid=21&linkid=156

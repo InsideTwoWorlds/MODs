@@ -1,0 +1,25 @@
+A mod which suits hard gameplay preferences.
+
+Will not work with other mods.
+
+Changes:
+5 parameter/2 skill points per level.
+Run speed increased for human player by 30%, for Mobs by 50%/100%, depends.
+Experience from combat increased by 25%
+Experience from killing Golems increased by 50%
+Experience from killing dragons increased by 200%
+Objects resized in Inventory , two handed maces/swords still keept a little bigger to avoid confusion.Now you can carry twice more before filling the Inventory.
+Bows aim/range increased.
+Mobs detection greatly increased. Now when you see them, they see you.
+Range of weapons increased. Now you CAN get hit when running.
+More gold from loot.
+Mobs damage greatly increased. HP increased.
+At start, 5 mana potions, 7 heal.
+Removed plate restrictions.
+
+You need to start a new game.
+
+Submitted by Salamandre
+3. October 2007
+
+https://web.archive.org/web/20130917205043/http://www.insidetwoworlds.com/local_links.php?catid=22&linkid=137
