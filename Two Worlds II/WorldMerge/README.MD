@@ -1,7 +1,7 @@
 Description
 Worldmerge combines the Two World 2 main campaign, the eleven multiplayer adventure maps and the whole Pirates of Flying Fortress Expansion into one coherent, newly balanced singleplayer gameworld. The experience curve as well as the levels of the monsters have been adjusted accordingly – reach lvl 65+ and still find challenging adventures.
 
-![Logo](/Images/tw2wmsglobev03.png)
+![Logo](./Images/tw2wmsglobev03.png)
 
 - Content Exploration Challenge -
 
@@ -224,7 +224,7 @@ Graphic cross invisible by Tranit: This makes the permanently present crosshair 
 
 Character Builder 1.5 by Azraeldark: This breathtaking mod allows for a myriad of additional options at character creation (new faces, tatoos, hairs, muscular structures...). In vanilla you really saw only the tip of an iceberg of customization possibilties. Version 1.5 even allows to play as dozends of different mosnter models and also brings in special specular skin effects. Note: The normal human heads are under the section "complexion" in the menu. Specular bodies, arms, legs, feet are always choice numbee 2. For use of normal heads just choose option 1 under "heads" and modify by using the option "complexion". More info here: Insidetwoworlds.com
 
-![Logo](/Images/tw2banner240.png)
+![Logo](./Images/tw2banner240.png)
 II. Known Issues
 
 The overhaul as described above is not flawless - please note the following known issues:
@@ -269,7 +269,7 @@ On some very rare occasions your hero's hp regeneration might refuse to work. Ge
 
 On even more rare occasions foes might refresh hp to 100% when knocked down. Try to reattack such foes after they stood up within five seconds and they won't refresh. As alst ressort try tro avoid knock downs in these very rare occassions.
 
-![Logo](/Images/tw2banner240.png)
+![Logo](./Images/tw2banner240.png)
 III. Requirements
 
 TwoWorlds 2 Game - Full version (PC) and
@@ -279,7 +279,7 @@ It is advisable, though not required, to use an English language installation. T
 
 When using neither English or German version, dialogue texts of the new questline will occassionally scroll a little fast. Also large parts of written text in your game will be automatically switched to Englsih, resuling in some imx of languages (only of cosmetic relevance).
 
-![Logo](/Images/tw2banner240.png)
+![Logo](./Images/tw2banner240.png)
 IV. Installation and Usage
 
 A. Installation
@@ -307,7 +307,7 @@ The new questline starts at the beginning of the game and is designed to run alm
 
 Ah, and no mods allowed in multiplayer.
 
-![Logo](/Images/tw2banner240.png)
+![Logo](./Images/tw2banner240.png)
 V. THANK YOU
 
 Where to start? This will be long and rightly so!
@@ -332,7 +332,7 @@ And last, but in no way least - the brave recent testers of Worldmerge Alpha, Be
 
 Forgive me please dear those, who slipped through this list and my exhausted memory.
 
-![Logo](/Images/tw2banner240.png)
+![Logo](./Images/tw2banner240.png)
 VI. Into the great wide open
 
 And now? I actually find myself happily humming right now in front of the screen . It's done (well not as in perfect, but as in "God damn it's out! Never would have thought myself it would ever come this far...").
@@ -348,7 +348,7 @@ All the best wishes a totally exhausted, but overly happy
 
 youngneil1
 
-![Logo](/Images/tw2download240.png)
+![Logo](./Images/tw2download240.png)
 DOWNLOAD LINK for Worldmerge 1.4a Setup.exe:
 
 
